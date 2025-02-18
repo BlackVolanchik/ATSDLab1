@@ -1,0 +1,7 @@
+D:\oop\atsd1\bin\Debug\atsd1.exe.config
+D:\oop\atsd1\bin\Debug\atsd1.exe
+D:\oop\atsd1\bin\Debug\atsd1.pdb
+D:\oop\atsd1\obj\Debug\atsd1.csproj.AssemblyReference.cache
+D:\oop\atsd1\obj\Debug\atsd1.csproj.CoreCompileInputs.cache
+D:\oop\atsd1\obj\Debug\atsd1.exe
+D:\oop\atsd1\obj\Debug\atsd1.pdb
